@@ -65,21 +65,19 @@ $\ i\hbar \frac{\partial \psi}{\partial t} = \hat{H}(t)\psi \$
 
 
 * Electric fields:
-$\, H_E = -\vec{d}\cdot \vec{E}\, $
+$\ H_E = -\vec{d}\cdot \vec{E} \$
 
 * Optical fields via dipole approximation:
-$\, H_{\text{opt}} = -\vec{d}\cdot \vec{E}_0 \cos(\omega t)\, $
+$\ H_{\text{opt}} = -\vec{d}\cdot \vec{E}_0 \cos(\omega t) \$
 
 ---
 
 ## **Atomic Interaction Control**
 
 * **Feshbach resonance theory**
-$\, a(B) = a_\text{bg} \Big(1 - \frac{\Delta}{B-B_0}\Big)\, $
+$\ a(B) = a_\text{bg} \Big(1 - \frac{\Delta}{B-B_0}\Big) \$
 * **Optical lattices**:
-  [
-  V(x) = V_0 \sin^2(kx)
-  ]
+$\ V(x) = V_0 \sin^2(kx)  \$
 * **Rydberg blockade** physics
 * **Many-body Hamiltonians** (Hubbard model)
 
@@ -88,9 +86,7 @@ $\, a(B) = a_\text{bg} \Big(1 - \frac{\Delta}{B-B_0}\Big)\, $
 ## **Laser–Matter Interaction**
 
 * Rabi oscillations:
-  [
-  \Omega_R = \frac{\mu E}{\hbar}
-  ]
+$\ \Omega_R = \frac{\mu E}{\hbar} \$
 * Bloch equations
 * Jaynes–Cummings physics
 * Coherent control theory (optimal control)
@@ -100,9 +96,7 @@ $\, a(B) = a_\text{bg} \Big(1 - \frac{\Delta}{B-B_0}\Big)\, $
 ## **Scanning Tunneling Microscopy (Atomic Construction)**
 
 Tunneling current:
-[
-I \propto V e^{-2\kappa d},\quad \kappa=\sqrt{2m\phi}/\hbar
-]
+$\ I \propto V e^{-2\kappa d},\quad \kappa=\sqrt{2m\phi}/\hbar \$
 Letting you move atoms via electric field + quantum tunneling mechanics.
 
 ---
