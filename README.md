@@ -67,7 +67,7 @@ $\ i\hbar \frac{\partial \psi}{\partial t} = \hat{H}(t)\psi \$
 
 * Electric fields:
 
-$\ H_E = -\vec{d}\cdot\vec{E} \$
+$\ H_E = -\vec{d} \cdot\vec{E} \$
 
 * Optical fields via dipole approximation:
 
