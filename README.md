@@ -71,7 +71,9 @@ If you truly wanted a mathematical framework, this is the stack:
 
 * Schrödinger equation
 * Time-dependent Hamiltonians:
-  [
+xxx
+  
+[
   i\hbar \frac{\partial \psi}{\partial t} = \hat{H}(t)\psi
   ]
 * Electric fields:
